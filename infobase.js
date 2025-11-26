@@ -18,9 +18,9 @@ const infobase = [
     date: "",
     pin: "y",
     info: "инфа",
-    
     img: ""
   },
 
 ];
+
 
