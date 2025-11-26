@@ -17,7 +17,11 @@ const infobase = [
     title: "★ Ваня «Kysik» Петров ★",
     date: "",
     pin: "y",
-    info: "инфа",
+    info: " 
+
+    афыва
+      ",
     img: ""
   },
+
 ];
