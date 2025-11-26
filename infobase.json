@@ -1,4 +1,4 @@
-const infobase = [
+[
   {
     "title": "",
     "date": "",
@@ -20,4 +20,4 @@ const infobase = [
     "info": "Номер: +7 999 888 77 66\nФИО: Петров Иван Васильевич\nПочта: vanya.kysik@gmail.com\nСоцсети: @kysik_vk\nАдрес: г. Москва, ул. Примерная 123",
     "img": ""
   }
-];
+]
