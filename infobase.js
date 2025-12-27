@@ -1,7 +1,7 @@
 const infobase = [
   {
-    title: "★ Ваня «Kysik» Петров ★",
-    date: "15.03.2024",
+    title: "Osipov / @Moarterusilor - Создатель госпартии",
+    date: "22.12.2025",
     pin: "y",
     info: `Это многострочная информация о пользователе.
     
@@ -43,4 +43,5 @@ Email: test@example.com`
 • Пункт 2
 • Пункт 3`
   },
+
 ];
